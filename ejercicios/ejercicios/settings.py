@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'django_extensions',
 
     'news.apps.NewsConfig',
-    'restaurants.apps.RestaurantsConfig'
+    'restaurants.apps.RestaurantsConfig',
+    'school.apps.SchoolConfig'
 ]
 
 MIDDLEWARE = [
